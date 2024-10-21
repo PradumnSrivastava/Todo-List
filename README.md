@@ -1,4 +1,3 @@
-
 ## PHP Todo Application
 This is a simple Todo application built with PHP. It allows you to create, edit, and delete tasks.
 
@@ -22,7 +21,3 @@ To Mark a task ask as complete, click the "checkbox" next to the task on the hom
 
 - Deleting a task
 To delete a task, click the "Delete" button next to the task on the homepage. You will be prompted to confirm the deletion. Click "Yes" to delete the task.
-
-
-## Screenshot
-![app-screenshot](https://github.com/user-attachments/assets/6322fb61-4ddd-4a24-96fe-f501a7219cf0)
